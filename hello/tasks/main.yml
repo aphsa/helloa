@@ -1,0 +1,3 @@
+- name: Hello World task
+  debug:
+     msg: "This is a hello world task"
