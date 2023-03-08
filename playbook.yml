@@ -1,6 +1,6 @@
 ---
-- hosts: localhost
-  connection: local
+- hosts: jv
+  #connection: local
   #become: true
   roles:
           - hello
